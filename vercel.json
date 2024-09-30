@@ -1,8 +1,11 @@
 {
+  "redirects": [{"source": "Https://healthcareroles.au",       "destination": "https://healthcareroles.au/",       "permanent": true     }
+],
   "rewrites": [
     {
       "source": "/(.*)",
       "destination": "https://healthcareroles.au/$1"
- }
+    }
   ]
 }
+    
